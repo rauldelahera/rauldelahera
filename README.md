@@ -1,16 +1,15 @@
-## Hi there 👋
+### Raul de la Hera
 
-<!--
-**rauldelahera/rauldelahera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI and machine learning engineer. I build end-to-end systems: data
+pipelines, NLP, retrieval-augmented generation, and the interfaces on top.
 
-Here are some ideas to get you started:
+**Featured project**
+- [osint-ai](https://github.com/rauldelahera/osint-ai): ingests public news RSS,
+  extracts entities with spaCy, maps how they co-occur as a graph, and answers
+  questions over the corpus with local RAG. Runs fully local, no API keys.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with**
+Python, RAG, LangGraph, spaCy, ChromaDB, sentence-transformers, Streamlit,
+Docker, GCP, Terraform.
+
+I care about responsible AI and honest evaluation of what models can and cannot do.
